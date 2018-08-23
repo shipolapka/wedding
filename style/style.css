@@ -1,0 +1,384 @@
+.container {
+	width: 1046px;
+	
+	margin: 0 auto;
+	
+
+}
+
+.info{
+	width: 1000px;
+	height: 58px;
+	
+	/*margin-left: 260px;
+	margin-right: 247px;*/
+	margin-top: 28px;
+
+}
+
+.menu{
+	width: 1000px;
+	height: 58px;
+	
+	/*margin-left: 260px;
+	margin-right: 247px;*/
+}
+.slide{
+	width: 1000px;
+	height: 522px;
+
+	/*margin-left: 260px;
+	margin-right: 247px;*/
+	
+
+}
+
+.cards {
+	width: 1000px;
+	height: 704px;
+	
+	/*margin-left: 260px;
+	margin-right: 247px;*/
+}
+
+.copy {
+	width: 1000px;
+	height: 57px;
+	
+	/*margin-left: 260px;
+	margin-right: 247px;*/
+}
+
+.card1 {
+	width: 273px;
+	height: 704px;
+	
+}
+
+/*.card1 img {
+	margin-top: 22px;
+}
+*/
+.img1 {
+	margin-top: 55px;
+}
+
+
+.text1{
+	width: 273px;
+	height: 70px;
+	background-color: #f7f5f0;
+	position: absolute;
+	/* Base text style */
+color: #130907;
+font-family: Arial;
+font-size: 18px;
+font-weight: 400;
+line-height: 18px;
+text-transform: uppercase;
+padding-top: 30px;
+    padding-bottom: 26px;
+    box-sizing: border-box;
+    padding-left: 26px;
+}
+
+.text2 {
+	width: 273px;
+	height: 70px;
+	background-color: #f7f5f0;
+	position: absolute;
+	/* Base text style */
+color: #130907;
+font-family: Arial;
+font-size: 18px;
+font-weight: 400;
+line-height: 18px;
+text-transform: uppercase;
+        margin-top: -11px;
+            padding-left: 26px;
+    padding-top: 30px;
+    padding-bottom: 26px;
+    box-sizing: border-box;
+}
+
+.text5{
+	width: 293px;
+	height: 70px;
+	background-color: #f7f5f0;
+	position: absolute;
+	/* Base text style */
+
+color: #4f4c36;
+font-family: Arial;
+font-size: 18px;
+font-weight: 400;
+line-height: 18px;
+text-transform: uppercase;
+            padding-left: 22px;
+    padding-top: 26px;
+    padding-bottom: 24px;
+    box-sizing: border-box;
+}
+
+.text6 {
+	width: 293px;
+	height: 70px;
+	background-color: #f7f5f0;
+	position: absolute;
+	/* Base text style */
+
+color: #4f4c36;
+font-family: Arial;
+font-size: 18px;
+font-weight: 400;
+line-height: 18px;
+text-transform: uppercase;
+    margin-top: -9px;
+      padding-left: 24px;
+    padding-top: 28px;
+    padding-bottom: 27px;
+    box-sizing: border-box;
+}
+
+
+.card2{
+	width: 436px;
+	height: 704px;
+	
+	margin-left: 273px;
+	margin-bottom: 70px;
+	position: absolute;
+	margin-top: -704px;
+	
+}
+
+.text3 {
+	width: 437px;
+	height: 70px;
+	background-color: #f7f5f0;
+	/* Base text style */
+
+color: #050505;
+font-family: Arial;
+font-size: 18px;
+font-weight: 400;
+line-height: 18px;
+text-transform: uppercase;
+    margin-top: -63px;
+    position: absolute;
+    padding-top: 28px;
+    padding-bottom: 27px;
+    box-sizing: border-box;
+    padding-left: 25px;
+	
+}
+
+.text4 {
+	width: 437px;
+	height: 70px;
+	background-color: #f7f5f0;
+	/* Base text style */
+
+color: #050505;
+font-family: Arial;
+font-size: 18px;
+font-weight: 400;
+line-height: 18px;
+text-transform: uppercase;
+margin-top: -67px;
+    position: absolute;
+     padding-left: 27px;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    box-sizing: border-box;
+	
+}
+
+.slide1 {
+	    position: absolute;
+    z-index: 2;
+}
+
+.img4 {
+	margin-top: -10px;
+}
+.img6 {
+	margin-top: 4px;
+}
+
+.img5 {
+	margin-top: 60px;
+}
+
+.img2 {
+	    margin-top: -9px;
+}
+
+.card3{
+	width: 293px;
+	height: 704px;
+	
+	margin-left: 710px;
+	margin-bottom: 70px;
+	position: absolute;
+	margin-top: -704px;
+}
+
+ul>li{
+	display: inline-block;
+	list-style: none;
+	padding: 0px 8px 10px 15px;
+	text-transform: uppercase;
+	color: #120900;
+font-family: Arial;
+}
+
+li>a {
+	text-decoration: none;
+	color: #120900;
+}
+
+.text1 a {
+	text-decoration: none;
+	color: #050505;
+}
+
+.text2 a {
+	text-decoration: none;
+	color: #050505;
+}
+
+.text3 a {
+	text-decoration: none;
+	color: #050505;
+}
+
+.text4 a {
+	text-decoration: none;
+	color: #050505;
+}
+
+.text5 a {
+	text-decoration: none;
+	color: #050505;
+}
+
+.text6 a {
+	text-decoration: none;
+	color: #050505;
+}
+
+li {
+	margin: 10px;
+
+}
+
+.line {
+	/* Style for "Слой 0" */
+width: 1000px;
+/*margin-left: 260px;*/
+border-bottom-width: 1px; /* Толщина линии внизу */
+    border-bottom-style: solid; /* Стиль линии внизу */
+    border-bottom-color: #ddd; /* Цвет линии внизу */
+}
+
+.logo {
+/* Style for "WEDDING EV" */
+width: 296px;
+height: 29px;
+color: #5c5c5c;
+font-family: "Franklin Gothic";
+font-size: 40px;
+font-weight: 300;
+line-height: 18px;
+text-transform: uppercase;
+margin-top: 20px;
+}
+
+.copy{
+/* Style for "Все права" */
+width: 271px;
+height: 29px;
+color: #757575;
+font-family: Arial;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+margin: auto;
+margin-top: 21px;
+text-align: center;
+}
+
+.phone{
+width: 157px;
+height: 17px;
+color: #474747;
+font-family: Arial;
+font-size: 17px;
+font-weight: 400;
+line-height: 18px;
+text-transform: uppercase;
+margin-left: 600px;
+margin-top: -40px;
+}
+
+.mail {
+/* Style for "info@gmail" */
+width: 99px;
+height: 14px;
+color: #969696;
+font-family: Arial;
+font-size: 14px;
+font-weight: 400;
+line-height: 18px;
+margin-left: 600px;
+}
+
+input {
+	/* Base text style */
+/* Style for "Rectangle" */
+/*width: 223px;
+height: 37px;
+margin-left: 760px;
+margin-top: -30px;
+color: #424242;
+font-family: Arial;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+text-transform: uppercase;*/
+    width: 223px;
+    height: 37px;
+    /*opacity: 0.7;*/
+    color: #fff;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-transform: uppercase;
+    border: none;
+    background-color: #cccccc;
+	    padding-left: 18px;
+    padding-top: 14px;
+    padding-bottom: 13px;
+    background-image: url(../img/shape-3.png);
+    background-repeat: no-repeat;
+	background-position: 193px 8px;;
+
+}
+
+form {
+	width: 223px;
+height: 37px;
+opacity: 0.5;
+background-color: rgba(0, 0, 0, 0.2);
+	
+        margin-left: 760px;
+    margin-top: -30px;
+    
+   
+}
+::-webkit-input-placeholder {color:#424242;}
+::-moz-placeholder          {color:#424242;}/* Firefox 19+ */
+:-moz-placeholder           {color:#424242;}/* Firefox 18- */
+:-ms-input-placeholder      {color:#424242;}
